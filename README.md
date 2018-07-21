@@ -11,5 +11,3 @@ Just another line of text
 #### bLAHhahahahah!
 
 Get ready for some fuckin' branching!!!!
-
-Oi shit, now in the updates branch!
