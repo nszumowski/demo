@@ -12,4 +12,4 @@ Just another line of text
 
 Get ready for some fuckin' branching!!!!
 
-i hope this is kewl!
+Some more cool changes, get used to it.
