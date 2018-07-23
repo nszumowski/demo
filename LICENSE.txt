@@ -1,5 +1,7 @@
 # LICENSE
 
+Version 3.0
+
 ## Blah Blah
 
 ### Boop
